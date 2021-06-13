@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="copyright">Copyright &#169; 2021 Syafiq</string>
+    <string name="about_text">This is a Body Mass Index (BMI) Calculator application.
+    It provides the corresponding weight status category and the status of your current
+    health. BMI calculator helps you calculate your Body Mass Index (BMI) to determine
+    whether you are underweight, normal weight or obese. Therefore, this apps is a measure
+    whether you are healthy weight for your height.</string>
+</resources>
