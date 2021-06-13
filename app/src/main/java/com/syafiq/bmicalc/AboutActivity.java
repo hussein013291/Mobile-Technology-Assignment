@@ -34,7 +34,7 @@ public class AboutActivity extends AppCompatActivity {
             @Override
             public void onClick(@NonNull View view) {
                 //Initialize intent
-                Intent intent = new Intent (Intent.ACTION_VIEW, Uri.parse("https://www.youtube.com"));
+                Intent intent = new Intent (Intent.ACTION_VIEW, Uri.parse("https://github.com/hussein013291/Mobile-Technology-Assignment/tree/master"));
 
                 //set flag
                 intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
